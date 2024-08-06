@@ -1,23 +1,11 @@
-import logo from './logo.svg';
+import {ReactComponent as AppStoreBadge} from "./app-store-badge-us-uk.svg";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <img src="/icon.png" width={350} height={350} alt="The Chalk-Talk app logo - a pixelated, winking smiley face." />
+      <a href="https://google.com"><AppStoreBadge /></a>
     </div>
   );
 }
