@@ -1,3 +1,38 @@
-.App {
+.app {
+  color: #999999;
+}
+
+.content {
   text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.footer {
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #666666;
+}
+
+a:hover {
+  color: #666666;
+}
+
+a:active {
+  color: #666666;
 }
