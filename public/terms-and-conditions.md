@@ -3,6 +3,8 @@
 ## 1. Introduction
 Welcome to Chalk-Talk. By using this mobile messaging application (the "App"), you agree to be bound by these Terms and Conditions (the "Terms"). If you do not agree to these Terms, please do not use the App.
 
+Important Note: *There is absolutely ~no tolerance~ for objectionable content or abusive users*
+
 ## 2. Eligibility
 You must be at least 13 years old to use this App. By using the App, you represent and warrant that you meet this age requirement.
 
@@ -30,9 +32,6 @@ To the fullest extent permitted by law, we shall not be liable for any damages a
 
 ## 9. Modifications to the Terms
 We reserve the right to modify these Terms at any time. Any changes will be effective immediately upon posting within the App. Your continued use of the App following any changes constitutes your acceptance of the new Terms.
-
-## 10. Termination
-We reserve the right to terminate or suspend your access to the App at any time, without notice, for conduct that we believe violates these Terms or is harmful to other users.
 
 ## 11. Governing Law
 These Terms are governed by and construed in accordance with the laws of Delaware. Any disputes arising from these Terms or your use of the App will be subject to the exclusive jurisdiction of the courts of Delaware.
